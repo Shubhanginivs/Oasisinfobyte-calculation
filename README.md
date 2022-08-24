@@ -1,2 +1,2 @@
 # Oasisinfobyte-calculation
-calculator using HTML, CSS, Javascript
+calculator using HTML, CSS, JavaScript
